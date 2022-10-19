@@ -1,6 +1,6 @@
 # week-04
 
-Materials for week 3 practical session
+Materials for week 4 practical session
 
 To get started:
 * Open [this link] in a new tab/window
